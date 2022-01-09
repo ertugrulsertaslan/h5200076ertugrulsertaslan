@@ -1,0 +1,37 @@
+[{
+"Ilce": "Gemlik",
+"Tarih": "MÖ 630",
+"ResimURL":"https://raw.githubusercontent.com/ertugrulsertaslan/h5200076ertugrulsertaslan/main/gemliklogo.png",
+"Nufus": "115.404"
+},
+ {
+ "AdiSoyadi": "Orhangazi",
+ "Tarih": "1893",
+ "ResimURL":"https://raw.githubusercontent.com/ertugrulsertaslan/h5200076ertugrulsertaslan/main/orhangazilogo.png",
+ "Nufus": "80.118"
+},
+ {
+ "AdiSoyadi": "İznik",
+ "Tarih": "1075",
+ "ResimURL":"https://raw.githubusercontent.com/ertugrulsertaslan/h5200076ertugrulsertaslan/main/izniklogo.png",
+ "Nufus": "44.102"
+},
+ {
+ "Ilce": "İnegöl",
+ "Tarih": "1847",
+ "ResimURL":"https://raw.githubusercontent.com/ertugrulsertaslan/h5200076ertugrulsertaslan/main/inegöllogo.png",
+ "Nufus": "229.812"
+},
+ {
+ "Ilce": "Mudanya",
+ "Tarih": "1321",
+ "ResimURL":"https://raw.githubusercontent.com/ertugrulsertaslan/h5200076ertugrulsertaslan/main/mudanyalogo.png",
+ "Nufus": "75.344"
+},
+ {
+ "Ilce": "Nilüfer",
+ "Tarih": "1987",
+ "ResimURL":"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/nilüferlogo.png",
+ "Nufus": "484.832"
+}
+]
